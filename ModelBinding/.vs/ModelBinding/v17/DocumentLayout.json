@@ -13,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A67C0CA9-613F-4D13-9BEA-6864092E2A16}|ModelBinding\\ModelBinding.csproj|d:\\.net\\modelbinding\\modelbinding\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A67C0CA9-613F-4D13-9BEA-6864092E2A16}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67C0CA9-613F-4D13-9BEA-6864092E2A16}|ModelBinding\\ModelBinding.csproj|d:\\.net\\modelbinding\\modelbinding\\customdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67C0CA9-613F-4D13-9BEA-6864092E2A16}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\customdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67C0CA9-613F-4D13-9BEA-6864092E2A16}|ModelBinding\\ModelBinding.csproj|d:\\.net\\modelbinding\\modelbinding\\newtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67C0CA9-613F-4D13-9BEA-6864092E2A16}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\newtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomData.cs",
+              "DocumentMoniker": "D:\\.NET\\ModelBinding\\ModelBinding\\CustomData.cs",
+              "RelativeDocumentMoniker": "ModelBinding\\CustomData.cs",
+              "ToolTip": "D:\\.NET\\ModelBinding\\ModelBinding\\CustomData.cs",
+              "RelativeToolTip": "ModelBinding\\CustomData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:47:16.916Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +53,7 @@
               "RelativeDocumentMoniker": "ModelBinding\\Properties\\launchSettings.json",
               "ToolTip": "D:\\.NET\\ModelBinding\\ModelBinding\\Properties\\launchSettings.json",
               "RelativeToolTip": "ModelBinding\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-14T17:23:22.981Z",
               "EditorCaption": ""
@@ -58,9 +79,22 @@
               "RelativeDocumentMoniker": "ModelBinding\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\.NET\\ModelBinding\\ModelBinding\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "ModelBinding\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T17:22:07.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewType.cs",
+              "DocumentMoniker": "D:\\.NET\\ModelBinding\\ModelBinding\\NewType.cs",
+              "RelativeDocumentMoniker": "ModelBinding\\NewType.cs",
+              "ToolTip": "D:\\.NET\\ModelBinding\\ModelBinding\\NewType.cs",
+              "RelativeToolTip": "ModelBinding\\NewType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:05:10.283Z",
               "EditorCaption": ""
             }
           ]

@@ -30,3 +30,4 @@ D:\.NET\ModelBinding\ModelBinding\obj\Debug\net8.0\refint\ModelBinding.dll
 D:\.NET\ModelBinding\ModelBinding\obj\Debug\net8.0\ModelBinding.pdb
 D:\.NET\ModelBinding\ModelBinding\obj\Debug\net8.0\ModelBinding.genruntimeconfig.cache
 D:\.NET\ModelBinding\ModelBinding\obj\Debug\net8.0\ref\ModelBinding.dll
+D:\.NET\ModelBinding\ModelBinding\obj\Debug\net8.0\ModelBinding.sourcelink.json

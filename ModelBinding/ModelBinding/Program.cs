@@ -7,6 +7,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//this formatter parses the requests body data if it is in xml format and maps it to endpoint parameter
+builder.Services.AddControllers().AddXmlSerializerFormatters();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
