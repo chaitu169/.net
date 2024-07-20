@@ -1,4 +1,5 @@
-using Microsoft.AspNetCore.Mvc; 
+using Microsoft.AspNetCore.Mvc;
+using System.Text.Json.Nodes;
 using static System.Net.WebRequestMethods;
 
 namespace HttpClinet.Controllers
@@ -26,8 +27,13 @@ namespace HttpClinet.Controllers
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
-        public async Task<string> Get(string cityName)
+        [ProducesResponseType(StatusCodes.Status400BadRequest, Type = typeof(string))] // ProduceResponseType Attribute is used to specify return types associated with various response codes, swagger uses this information to show on swagger API Documentation 
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(JsonArray))]
+        public async Task<IActionResult> Get(string? cityName)
         {
+            if (string.IsNullOrEmpty(cityName))
+                return BadRequest("City Name Must not be null");
+            
             var url = $"http://api.weatherapi.com/v1/current.json?key=6cef9d3c198d4382b6d134831242007&q={cityName}";
 
             //wrapping httpclient in using block frees up the unused resources
@@ -41,7 +47,7 @@ namespace HttpClinet.Controllers
             
             var httpClient = _httpClientFactory.CreateClient(); 
             var response = await httpClient.GetAsync(url);
-            return await response.Content.ReadAsStringAsync();
+            return Ok(await response.Content.ReadAsStringAsync());
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HttpClinet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8d15c1512f740774aef6307aa6ea02900d3979c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00133851b621e0399832de8af7d45838ef6897e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("HttpClinet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HttpClinet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
