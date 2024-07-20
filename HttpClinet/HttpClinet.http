@@ -1,0 +1,6 @@
+@HttpClinet_HostAddress = http://localhost:5281
+
+GET {{HttpClinet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
