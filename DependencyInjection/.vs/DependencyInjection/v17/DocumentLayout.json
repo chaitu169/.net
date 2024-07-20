@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9367A3-B898-4F0A-B4FE-9FE55780B59D}|DependencyInjection\\DependencyInjection.csproj|d:\\.net\\dependencyinjection\\dependencyinjection\\experiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9367A3-B898-4F0A-B4FE-9FE55780B59D}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\experiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B9367A3-B898-4F0A-B4FE-9FE55780B59D}|DependencyInjection\\DependencyInjection.csproj|d:\\.net\\dependencyinjection\\dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9367A3-B898-4F0A-B4FE-9FE55780B59D}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Experiment.cs",
+              "DocumentMoniker": "D:\\.NET\\DependencyInjection\\DependencyInjection\\Experiment.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Experiment.cs",
+              "ToolTip": "D:\\.NET\\DependencyInjection\\DependencyInjection\\Experiment.cs",
+              "RelativeToolTip": "DependencyInjection\\Experiment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:34:21.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\DependencyInjection\\DependencyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Program.cs",
+              "ToolTip": "D:\\.NET\\DependencyInjection\\DependencyInjection\\Program.cs",
+              "RelativeToolTip": "DependencyInjection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:40:10.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
